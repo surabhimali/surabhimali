@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Surabhi Mali
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Surabhi Mali
 ====================================================================================================================================
 
 Certified in Data Science || System Engineer @Infosys || AI-ML Learner
@@ -25,7 +25,7 @@ Certified in Data Science || System Engineer @Infosys || AI-ML Learner
 Data Science and AI-ML Learner || System Engineer at Infosys 
 I am Certified in Data Science and well-versed in Python, SQL and Mathematics. I am a System Engineer at Infosys Ltd., where I have honed my skills in technical communication, international client management, and cross-functional collaboration. I am passionate about solving real-world problems and implementing machine learning and deep learning projects that demonstrate real-world applications. I aspire to work in the data science field and leverage my educational background, certifications, and passion for data-driven solutions. I am committed to making a meaningful impact in the field through continuous learning and innovation. I have a Bachelor of Engineering degree in Information Technology from Savitribai Phule Pune University and multiple certifications in data science, Python, SQL, and C++.
 
-Connect with me on Medium for insightful articles related to Data Science: https://medium.com/@dms119128
+Connect with me on Medium for insightful articles related to Data Science: https://medium.com/@surabhimali
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * 🖥️  See my portfolio at [https://surabhimali.github.io/Portfolio/](http://https://surabhimali.github.io/Portfolio/)
